@@ -1,6 +1,4 @@
 # FaceMask-Detection
-# Face Mask Detection System
-
 A real-time face mask detection system using TensorFlow/Keras and OpenCV.
 
 ## Features
