@@ -1,4 +1,10 @@
+# Core requirements
 tensorflow>=2.8.0
 opencv-python>=4.5.0
 matplotlib>=3.3.0
 numpy>=1.19.0
+scipy>=1.7.0
+pillow>=8.3.0
+
+# Jupyter (optional, for running the notebook)
+jupyter>=1.0.0
